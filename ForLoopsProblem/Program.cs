@@ -10,6 +10,7 @@ namespace ForLoopsProblem
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("ForLoops Problems");
         }
     }
 }
